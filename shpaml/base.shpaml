@@ -3,7 +3,7 @@ html
 	head
 		title | $~title~$
 		<meta charset="UTF-8"/>
-		<link rel="stylesheet" type="text/css" href="$~_basePath~$/static/css/global.css"></link>
+		<link rel="stylesheet" type="text/css" href="/static/css/global.css"></link>
 	body
 		#page_area
 			ul#navigation
@@ -23,4 +23,4 @@ html
 			<div class="baseline"></div>
 			
 			<script type="text/javascript" langauge="javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
-        	<script type="text/javascript" language="javascript" src="$~_basePath~$/static/js/global.js"></script>
+        	<script type="text/javascript" language="javascript" src="/static/js/global.js"></script>
