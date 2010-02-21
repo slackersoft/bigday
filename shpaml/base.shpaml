@@ -12,7 +12,7 @@ html
 				li
 					a href="$~_basePath~$/details" | Wedding Details
 				li
-					a href="$~_basePath~$/getthere | Getting There
+					a href="$~_basePath~$/getthere" | Getting There
 				li
 					a href="$~_basePath~$/photos" | Photo Album
 				li
