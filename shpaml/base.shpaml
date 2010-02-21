@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+html
+	head
+		title | $~title~$
+		<meta charset="UTF-8"/>
+		<link rel="stylesheet" type="text/css" href="$~_basePath~$/static/css/global.css"></link>
+	body
+		#page_area
+			ul#navigation
+				li
+					a href="$~_basePath~$/" | Welcome
+				li
+					a href="$~_basePath~$/details" | Wedding Details
+				li
+					a href="$~_basePath~$/getthere | Getting There
+				li
+					a href="$~_basePath~$/photos" | Photo Album
+				li
+					a href="$~_basePath~$/registry" | Gift Registries
+			#content
+				$#parse($~contents~$)
+			
+			<div class="baseline"></div>
+			
+			<script type="text/javascript" langauge="javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
+        	<script type="text/javascript" language="javascript" src="$~_basePath~$/static/js/global.js"></script>
