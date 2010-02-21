@@ -20,7 +20,7 @@ class BaseHandler:
             else:
                 return eval('self.' + m)
         
-        return m
+        return match.group()
     
     def fromShpaml(self, file, tabs=''):
         if (not file):
