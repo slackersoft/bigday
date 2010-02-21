@@ -1,1 +1,3 @@
 h1 | Photos
+
+> img src="/img$~basePath~$/in_jamaica.jpg
