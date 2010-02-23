@@ -33,6 +33,7 @@ body
 	padding: 100px 0 0 0;
 	float: left;
 	width: 250px;
+	text-align: center;
 }
 
 #navigation a,
@@ -48,10 +49,8 @@ body
 
 #content
 {
-	background: url('/img/bigday/bigday-small.jpg') no-repeat;
-	background-position: top right;
-	width: 640px;
-	padding: 40px 0 0;
+	width: 630px;
+	padding: 35px 0 0;
 	float: right;
 }
 
