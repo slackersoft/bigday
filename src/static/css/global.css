@@ -1,6 +1,6 @@
 body,div,span,ul,ol,li {margin:0;padding:0}
 li{list-style-type:none;}
-a,a:visited{font-decoration:none;}
+a,a:visited{text-decoration:none;}
 
 @font-face
 {
@@ -26,7 +26,8 @@ body
 
 #navigation
 {
-	font-family: "StrangeloveText", Verdana, Arial, Sans-Serif;
+	font-family: "StrangeloveText";
+	font-size: 14px;
 	background: url('/img/bigday/bridge-small.jpg') no-repeat;
 	background-position: top center;
 	padding: 90px 0 0 0;
@@ -45,7 +46,8 @@ body
 
 h1
 {
-	font-family: "StrangeloveText", Verdana, Arial, Sans-Serif;
+	font-family: "StrangeloveText";
+	font-size: 20px; 
 	color: #EA6D1F;
 }
 
