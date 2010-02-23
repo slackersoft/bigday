@@ -1,4 +1,4 @@
-body,div,span,ul,ol,li {margin:0;padding:0}
+body,div,span,ul,ol,li,h1 {margin:0;padding:0}
 li{list-style-type:none;}
 a,a:visited{text-decoration:none;}
 
@@ -27,12 +27,19 @@ body
 #navigation
 {
 	font-family: "StrangeloveText";
-	font-size: 14px;
+	font-size: 30px;
+	font-weight: bold;
 	background: url('/img/bigday/bridge-small.jpg') no-repeat;
 	background-position: top center;
-	padding: 90px 0 0 0;
+	padding: 95px 0 0 0;
 	float: left;
 	width: 250px;
+}
+
+#navigation a,
+#navigation a:visited
+{
+	color: #00295D;
 }
 
 #content
@@ -47,7 +54,9 @@ body
 h1
 {
 	font-family: "StrangeloveText";
-	font-size: 20px; 
+	font-size: 60px;
+	line-height: 0px;
+	margin: 0 0 20px 0;
 	color: #EA6D1F;
 }
 
