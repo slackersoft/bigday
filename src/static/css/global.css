@@ -58,7 +58,7 @@ body
 {
 	font-family: "StrangeloveText";
 	font-size: 35px;
-	text-align: justify;
+	text-align: center;
 }
 
 .index_name
@@ -69,12 +69,18 @@ body
 .fancy img
 {
 	vertical-align: top;
+	padding-top: 10px;
 }
 
 .justify
 {
 	width: 212px;
-	text-align: justify;
+	text-align: center;
+}
+
+.big
+{
+	font-size: 60px;
 }
 
 h1
