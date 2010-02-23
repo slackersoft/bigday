@@ -3,13 +3,10 @@ h1 | Welcome
 	.index_name.justify | Jennifer Van Hove
 	.bridge.justify | +
 	.index_name.justify | Gregg Peschel
-	.justify
-		Would be honored to see you<br/>
-		at the Flying Cloud Farm<br/>
-		in Petaluma, California<br/>
-		at 4PM on May 23rd, 2010<br/>
-		to celebrate what they<br/>
-		will refer to from now on<br/>
-		as their
-		
-		> img src="/img$~_basePath~$/bigday-small.jpg"
+	.justify | Would be honored to see you
+	.justify | at the Flying Cloud Farm
+	.justify | in Petaluma, California
+	.justify | at 4PM on May 23rd, 2010
+	.justify | to celebrate what they
+	.justify | will refer to from now on
+	div | as their <img src="/img$~_basePath~$/bigday-small.jpg"/>
