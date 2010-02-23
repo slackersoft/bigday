@@ -27,11 +27,10 @@ body
 #navigation
 {
 	font-family: "StrangeloveText";
-	font-size: 30px;
-	font-weight: bold;
+	font-size: 35px;
 	background: url('/img/bigday/bridge-small.jpg') no-repeat;
 	background-position: top center;
-	padding: 95px 0 0 0;
+	padding: 100px 0 0 0;
 	float: left;
 	width: 250px;
 }
@@ -40,6 +39,11 @@ body
 #navigation a:visited
 {
 	color: #00295D;
+}
+
+#navigation a:hover
+{
+	font-weight: bold;
 }
 
 #content
@@ -55,7 +59,7 @@ h1
 {
 	font-family: "StrangeloveText";
 	font-size: 60px;
-	line-height: 0px;
+	line-height: 60px;
 	margin: 0 0 20px 0;
 	color: #EA6D1F;
 }

@@ -1,2 +1,15 @@
 h1 | Welcome
-div | OMG We&apos;re getting married!!
+div
+	.index_name | Jennifer Van Hove
+	.bridge | +
+	.index_name | Gregg Peschel
+	div
+		Would be honored to see you<br/>
+		at the Flying Cloud Farm<br/>
+		in Petaluma, California<br/>
+		at 4PM on May 23rd, 2010<br/>
+		to celebrate what they<br/>
+		will refer to from now on<br/>
+		as their
+		
+		> img src="/img$~_basePath~$/bigday-small.jpg"
