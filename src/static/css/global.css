@@ -54,6 +54,12 @@ body
 	float: right;
 }
 
+.fancy
+{
+	font-family: "StrangeloveText";
+	font-size: 35px;
+}
+
 h1
 {
 	font-family: "StrangeloveText";
