@@ -5,7 +5,7 @@ a,a:visited{text-decoration:none;}
 @font-face
 {
 	font-family: 'StrangeloveText';
-	src: url('/static/bigday/css/strangelove-text.otf');
+	src: url('/static/css/strangelove-text.otf');
 }
 
 body
