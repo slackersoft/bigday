@@ -65,7 +65,7 @@ body
 
 .index_name
 {
-	font-size: 40px;
+	font-size: 50px;
 }
 
 .fancy img
@@ -84,6 +84,7 @@ body
 {
 	font-size: 60px;
 	line-height: 20px;
+	padding-top: 5px;
 }
 
 h1
