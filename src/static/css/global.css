@@ -1,5 +1,6 @@
 body,div,span,ul,ol,li {margin:0;padding:0}
 li{list-style-type:none;}
+a,a:visited{font-decoration:none;}
 
 @font-face
 {
