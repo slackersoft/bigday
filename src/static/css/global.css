@@ -59,6 +59,8 @@ body
 	font-family: "StrangeloveText";
 	font-size: 35px;
 	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .index_name
