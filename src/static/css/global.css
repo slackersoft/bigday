@@ -10,7 +10,7 @@ li{list-style-type:none;}
 body
 {
 	background: #FFFFFF;
-	color: #000000;
+	color: #00295D;
 	font: 14px Verdana, Arial, Sans-Serif;
 }
 
@@ -38,4 +38,10 @@ body
 	width: 640px;
 	margin: 40px 0 0;
 	float: right;
+}
+
+a,
+.bridge
+{
+	color: #EA6D1F; 
 }
