@@ -3,7 +3,7 @@ li{list-style-type:none;}
 
 @font-face
 {
-	font-family: "Strangelove-text";
+	font-family: 'StrangeloveText';
 	src: url('/static/bigday/css/strangelove-text.otf');
 }
 
@@ -25,24 +25,26 @@ body
 
 #navigation
 {
-	font-family: "Strangelove-text", Verdana, Arial, Sans-Serif;
-	background: url('/img/bigday/bridge-small.jpg') no-repeat inherit top center;
-	margin: 90px 0 0 0;
+	font-family: "StrangeloveText", Verdana, Arial, Sans-Serif;
+	background: url('/img/bigday/bridge-small.jpg') no-repeat;
+	background-position: top center;
+	padding: 90px 0 0 0;
 	float: left;
 	width: 250px;
 }
 
 #content
 {
-	background: url('/img/bigday/bigday-small.jpg') no-repeat inherit top right;
+	background: url('/img/bigday/bigday-small.jpg') no-repeat;
+	background-position: top right;
 	width: 640px;
-	margin: 40px 0 0;
+	padding: 40px 0 0;
 	float: right;
 }
 
 h1
 {
-	font-family: "Strangelove-text", Verdana, Arial, Sans-Serif;
+	font-family: "StrangeloveText", Verdana, Arial, Sans-Serif;
 	color: #EA6D1F;
 }
 
