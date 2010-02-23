@@ -40,8 +40,14 @@ body
 	float: right;
 }
 
+h1
+{
+	font-family: "Strangelove-text", Verdana, Arial, Sans-Serif;
+	color: #EA6D1F;
+}
+
 a,
 .bridge
 {
-	color: #EA6D1F; 
+	color: #EA6D1F;
 }
