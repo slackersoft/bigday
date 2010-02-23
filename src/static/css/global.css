@@ -1,6 +1,12 @@
 body,div,span,ul,ol,li {margin:0;padding:0}
 li{list-style-type:none;}
 
+@font-face
+{
+	font-family: "Strangelove-text";
+	src: url('/static/bigday/css/strangelove-text.otf');
+}
+
 body
 {
 	background: #FFFFFF;
@@ -19,6 +25,7 @@ body
 
 #navigation
 {
+	font-family: "Strangelove-text" Verdana, Arial, Sans-Serif;
 	background: url('/img/bigday/bridge.jpg') no-repeat;
 	margin: 50px 0 0;
 	float: left;
