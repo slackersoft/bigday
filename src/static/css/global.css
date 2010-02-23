@@ -25,15 +25,17 @@ body
 
 #navigation
 {
-	font-family: "Strangelove-text" Verdana, Arial, Sans-Serif;
-	background: url('/img/bigday/bridge.jpg') no-repeat;
-	margin: 50px 0 0;
+	font-family: "Strangelove-text", Verdana, Arial, Sans-Serif;
+	background: url('/img/bigday/bridge-small.jpg') no-repeat inherit top center;
+	margin: 90px 0 0 0;
 	float: left;
+	width: 250px;
 }
 
 #content
 {
-	background: url('/img/bigday/bigday.jpg');
+	background: url('/img/bigday/bigday-small.jpg') no-repeat inherit top right;
+	width: 640px;
 	margin: 40px 0 0;
 	float: right;
 }
