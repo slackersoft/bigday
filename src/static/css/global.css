@@ -14,10 +14,19 @@ body
 	width: 900px;
 	margin-left: auto;
 	margin-right: auto;
+	padding: 5px;
 }
 
 #navigation
 {
 	background: url('/img/bigday/bridge.jpg') no-repeat;
 	margin: 50px 0 0;
+	float: left;
+}
+
+#content
+{
+	background: url('/img/bigday/bigday.jpg');
+	margin: 40px 0 0;
+	float: right;
 }
