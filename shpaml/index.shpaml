@@ -1,9 +1,9 @@
 h1 | Welcome
-.fancy
-	.index_name | Jennifer Van Hove
-	.bridge | +
-	.index_name | Gregg Peschel
-	style="width: 300px"
+.fancy.justify
+	.index_name.justify | Jennifer Van Hove
+	.bridge.justify | +
+	.index_name.justify | Gregg Peschel
+	.justify
 		Would be honored to see you<br/>
 		at the Flying Cloud Farm<br/>
 		in Petaluma, California<br/>
