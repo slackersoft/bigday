@@ -47,6 +47,17 @@ body
 	font-weight: bold;
 }
 
+#navigation li
+{
+	border-left: 1px solid #EA6D1F;
+	border-right: 1px solid #EA6D1F;
+}
+
+#navigation:last-child
+{
+	border-bottom: 1px solid #EA6D1F;
+}
+
 #content
 {
 	width: 630px;
