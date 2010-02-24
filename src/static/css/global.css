@@ -53,9 +53,14 @@ body
 	border-right: 1px solid #EA6D1F;
 }
 
+#navigation li:last-child
+{
+	padding-bottom: 15px;
+}
+
 #content
 {
-	width: 630px;
+	width: 600px;
 	padding: 35px 0 0;
 	float: right;
 }
