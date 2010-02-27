@@ -30,7 +30,7 @@ body
 	font-size: 35px;
 	background: url('/img/bigday/bridge-small.jpg') no-repeat;
 	background-position: top center;
-	padding: 135px 0 0 0;
+	padding: 120px 0 0 0;
 	float: left;
 	width: 250px;
 	text-align: center;
@@ -51,6 +51,11 @@ body
 {
 	border-left: 1px solid #EA6D1F;
 	border-right: 1px solid #EA6D1F;
+}
+
+#navigation li:first-child
+{
+	padding-top: 20px;
 }
 
 #navigation li:last-child
@@ -96,6 +101,7 @@ body
 	font-size: 60px;
 	line-height: 20px;
 	padding-top: 5px;
+	margin-bottom: -15px;
 }
 
 h1
