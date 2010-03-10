@@ -1,7 +1,13 @@
 h1 | Gift Registries
 
-#crate
-	<a href="http://www.crateandbarrel.com/Gift-Registry/Guest/ViewRegistry.aspx?grid=4426573">Crate &amp; Barrel</a>
+#thanks
+	We will totally appreciate anything you might feel like getting us. We&apos;ve registered at the following places so
+	you&apos;ll know what we think we want.
 
-#amazon
-	<a href="http://www.amazon.com/gp/registry/wedding/1BLC7E0C1L5H4">Amazon.com</a>
+#amazon.regLocation
+	<a href="http://www.amazon.com/gp/registry/wedding/1BLC7E0C1L5H4">Amazon.com</a><br/>
+	Stuff for all over the house; you can find anything on Amazon.
+	
+#crate.regLocation
+	<a href="http://www.crateandbarrel.com/Gift-Registry/Guest/ViewRegistry.aspx?grid=4426573">Crate &amp; Barrel</a><br/>
+	Every day dishware and stuff.
