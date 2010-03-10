@@ -1,4 +1,4 @@
-body,div,span,ul,ol,li,h1 {margin:0;padding:0}
+body,div,span,ul,ol,li,h1,h4 {margin:0;padding:0}
 li{list-style-type:none;}
 a,a:visited{text-decoration:none;}
 
@@ -113,6 +113,13 @@ h1
 	color: #EA6D1F;
 }
 
+h4
+{
+	font-family: "StrangeloveText";
+	font-size: 30px;
+	margin: 0 0 10px 0;
+}
+
 a,
 a:visited,
 .bridge
@@ -130,8 +137,13 @@ a:visited,
 	display: none;
 }
 
-#info .addr,
-#info .phone
+div.addr,
+div.phone
 {
 	font-size: 10px;
+}
+
+a.directions
+{
+	margin: 8px 0 0 0;
 }
