@@ -1,10 +1,13 @@
 h1 | Getting There
 
 #airports
-	The closest commonly used local airports are San Francisco International Airport and Oakland International Airport.
-	It will take about an hour and a half to drive from SFO to Petaluma, and about an hour to drive up from OAK, traffic permitting.
-	One other option is the Sonoma County Airport (STS), which is located in Santa Rosa.
-	Alaska Airlines offers flights into STS.  It will take about ten minutes to drive from STS to Petaluma.
+	The closest commonly used local airports are <a class="maplink" href="javascript:;" rel="#sfoinfo">San Francisco International Airport</a>
+	and <a class="maplink" href="javascript:;" rel="#oakinfo">Oakland International Airport</a>.
+	It will take about an hour and a half to drive from <a href="http://maps.google.com/maps?f=d&source=s_d&saddr=sfo&daddr=Sonoma+County+-+Petaluma,+745+Baywood+Drive,+Petaluma,+CA+94954&hl=en&geocode=%3BFdxaRwIdZhOx-Cn52x44RLGFgDHloxVSrP_lIQ&mra=ls&sll=38.232003,-122.61406&sspn=0.001818,0.002519&ie=UTF8&z=10">SFO to Petaluma</a>,
+	and about an hour to drive up from <a href="http://maps.google.com/maps?f=d&source=s_d&saddr=oak&daddr=Sonoma+County+-+Petaluma,+745+Baywood+Drive,+Petaluma,+CA+94954&hl=en&geocode=FZByPwIddS23-ClBpsACVISPgDE16Ov2D4f0gQ%3BFdxaRwIdZhOx-Cn52x44RLGFgDHloxVSrP_lIQ&mra=ls&sll=37.924995,-122.504125&sspn=0.934858,1.28952&ie=UTF8&ll=37.973432,-122.402802&spn=0.934238,1.28952&z=10">OAK to Petaluma</a>, traffic permitting.
+	One other option is the <a class="maplink" href="javascript:;" rel="#stsinfo">Sonoma County Airport (STS)</a>,
+	which is located in Santa Rosa. Alaska Airlines offers flights into STS.
+	It will take about ten minutes to drive from <a href="http://maps.google.com/maps?f=d&source=s_d&saddr=sts&daddr=Sonoma+County+-+Petaluma,+745+Baywood+Drive,+Petaluma,+CA+94954&hl=en&geocode=%3BFdxaRwIdZhOx-Cn52x44RLGFgDHloxVSrP_lIQ&mra=ls&sll=37.973432,-122.402802&sspn=0.934238,1.28952&ie=UTF8&z=11">STS to Petaluma</a>.
 
 <div id="mapsHolder"></div>
 

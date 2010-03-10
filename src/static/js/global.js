@@ -55,7 +55,7 @@
 			}
 			else if (location.pathname === '/bigday/getthere.py')
 			{
-				map.setCenter(new GLatLng(38.1086276, -122.4755859), 9);
+				map.setCenter(new GLatLng(38.1086276, -122.4755859), 8);
 			}
 	        map.setUIToDefault();
 		}
