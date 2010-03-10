@@ -25,7 +25,7 @@
 		if (mark)
 		{
 			bd.map.panTo(mark.getLatLng());
-			bd.map.getInfoWindow().show();
+			GEvent.trigger(mark, 'click');
 		}
 	};
 	
