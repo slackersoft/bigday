@@ -23,6 +23,7 @@ html
 			<div class="baseline"></div>
 			
 		<script type="text/javascript" langauge="javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
+    	<script type="text/javascript" language="javascript" src="http://maps.google.com/maps?file=api&v=2&key=ABQIAAAAe7DbFM2YJ--hZYgCybqSMhSkw2Xyn7ViD49spzOP6aE54qkoOBSutrypf1mFnSLnz3YFQ_Pcoqmi3Q&sensor=true"></script>
     	<script type="text/javascript" language="javascript" src="/static/js/global.js"></script>
 		<script type="text/javascript">
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");

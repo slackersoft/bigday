@@ -119,3 +119,9 @@ a:visited,
 {
 	color: #EA6D1F;
 }
+
+#mapsHolder
+{
+	width: 500px;
+	height: 300px;
+}
