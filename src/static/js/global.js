@@ -16,7 +16,7 @@
 		
 		if (el && GBrowserIsCompatible())
 		{
-			var map = new GMap2(el.get(0));
+			bd.map = new GMap2(el.get(0));
 			
 			var fcLatLng = new GLatLng(38.2997720, -122.6439860);
 			
@@ -25,7 +25,7 @@
 			map.addOverlay(marker(new GLatLng(38.2483650, -122.6256590), "Best Western Petaluma", "#bwinfo"));
 			map.addOverlay(marker(new GLatLng(37.6152230, -122.3899790), "San Francisco International", "#sfoinfo"));
 			map.addOverlay(marker(new GLatLng(37.7125281, -122.2130026), "Oakland International", "#oakinfo"));
-			map.addOverlay(marker(new GLatLng(38.5105557, -122.8055680), "Sonoma International", "#stsinfo"));
+			map.addOverlay(marker(new GLatLng(38.5105557, -122.8055680), "Sonoma County Airport", "#stsinfo"));
 			
 			map.setCenter(fcLatLng, 13);
 	        map.setUIToDefault();
