@@ -6,3 +6,6 @@ h1 | Getting There
 	One other option is the Sonoma County Airport (STS), which is located in Santa Rosa.
 	Alaska Airlines offers flights into STS.  It will take about ten minutes to drive from STS to Petaluma.
 
+<div id="mapsHolder"></div>
+
+$#parse(mapInfos)
