@@ -25,7 +25,7 @@
 		if (mark)
 		{
 			bd.map.panTo(mark.getLatLng());
-			mark.showInfoWindow();
+			mark.showInfoWindow($(evt.target.rel).get(0));
 		}
 	};
 	
