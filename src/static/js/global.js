@@ -20,7 +20,13 @@
 			return;
 		}
 		
-		bd.myEvent = evt;
+		var mark = bd.markers[evt.target.rel];
+		
+		if (mark)
+		{
+			bd.map.panTo(mark.getLatLng());
+			mark.showInfoWindow();
+		}
 	};
 	
 	var initMaps = function ()
