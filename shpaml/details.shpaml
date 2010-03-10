@@ -5,3 +5,11 @@ h1 | Details
 	A dinner reception will follow.
 
 <div id="mapsHolder"></div>
+
+#info
+	#fcinfo | Flying Cloud Farm
+	#sherinfo | Sheraton Petaluma
+	#bwinfo | Best Western Petaluma
+	#sfoinfo | San Francisco International Airport
+	#oakinfo | Oakland International Airport
+	#stsinfo | Sonoma County Airport
