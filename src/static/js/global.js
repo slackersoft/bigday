@@ -16,7 +16,7 @@
 		
 		if (el && GBrowserIsCompatible())
 		{
-			bd.map = new GMap2(el.get(0));
+			var map = (bd.map = new GMap2(el.get(0)));
 			
 			var fcLatLng = new GLatLng(38.2997720, -122.6439860);
 			
