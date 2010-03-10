@@ -129,3 +129,9 @@ a:visited,
 {
 	display: none;
 }
+
+#info .addr,
+#info .phone
+{
+	font-size: 10px;
+}

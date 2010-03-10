@@ -1,15 +1,30 @@
 h1 | Details
 
 #flyingcloud
-	The ceremony will be hosted outside at <a href="http://www.flyingcloudfarm.com/">Flying Cloud Farm</a>.
+	The ceremony will be hosted outside at <a class="maplink" href="javascript:;" rel="#fcinfo">Flying Cloud Farm</a>.
 	A dinner reception will follow.
 
 <div id="mapsHolder"></div>
 
 #info
-	#fcinfo | Flying Cloud Farm
-	#sherinfo | Sheraton Petaluma
-	#bwinfo | Best Western Petaluma
-	#sfoinfo | San Francisco International Airport
-	#oakinfo | Oakland International Airport
-	#stsinfo | Sonoma County Airport
+	#fcinfo
+		h4 | Flying Cloud Farm
+		.addr | 1200 Jacobsen Lane, Petaluma, CA 94954
+		.phone | (707) 765-4433
+		a.directions href="http://maps.google.com/maps?q=Flying+Cloud,+1200+Jacobsen+Lane,+Petaluma,+CA+94954&hl=en&cd=1&ei=XyOXS4T_DY2ssQOJ0eXWAQ&sig2=X650sWcSnInchYcl5q5DNg&sll=38.187712,-122.607152&sspn=0.62907,0.195245&ie=UTF8&view=map&f=d&daddr=1200+Jacobsen+Lane,+Petaluma,+CA+94954&geocode=CbJrNOQ-SH-TFXZxSAIdiZ2w-CF3c8AnHTZHQw&ved=0CBYQ_wY&ll=38.302567,-122.643063&spn=0.007266,0.010074&z=17" | Directions
+	#sherinfo
+		h4 | Sheraton Petaluma
+		.addr | 745 Baywood Drive, Petaluma, CA 94954
+		.phone | (707) 283-2888‎
+		a.directions href="http://maps.google.com/maps?q=Sheraton+Sonoma+County+-+Petaluma,+745+Baywood+Drive,+Petaluma,+CA+94954&hl=en&cd=1&ei=NSWXS5i-BpTitAOjkaX4AQ&sig2=bYPyeBADrDFCevqMvGfAQg&sll=38.230748,-122.61289&sspn=0.006295,0.006295&ie=UTF8&view=map&f=d&daddr=745+Baywood+Drive,+Petaluma,+CA+94954&geocode=CX-ig95DyaTTFdxaRwIdZhOx-CGWY3m0cDw_ag&ved=0CEwQ_wY&ll=38.231244,-122.612894&spn=0.007273,0.010074&z=17" | Directions
+	#bwinfo
+		h4 | Best Western Petaluma
+		.addr | 200 S McDowell Blvd, Petaluma, CA 94954
+		.phone | (707) 763-0994‎
+		a.directions href="http://maps.google.com/maps?q=Best+Western+Petaluma+Inn,+200+South+McDowell+Boulevard,+Petaluma,+CA+94954-3506&hl=en&cd=1&ei=WCWXS7uAEYn6tQPrkPT2AQ&sig2=iu4kRCECueMQbdiy8UnpEQ&sll=38.248365,-122.625659&sspn=0.006295,0.006295&ie=UTF8&view=map&f=d&daddr=200+S+McDowell+Blvd,+Petaluma,+CA+94954-3506&geocode=CbJ8zFrMsfzgFa2fRwIdheGw-CEt3jVKawOfvg&ved=0CEsQ_wY&ll=38.248865,-122.625661&spn=0.007271,0.010074&z=17" | Directions
+	#sfoinfo
+		h4 | San Francisco International Airport
+	#oakinfo
+		h4 | Oakland International Airport
+	#stsinfo
+		h4 | Sonoma County Airport
