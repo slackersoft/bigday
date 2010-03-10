@@ -20,7 +20,7 @@
 			return;
 		}
 		
-		alert(evt);
+		bd.myEvent = evt;
 	};
 	
 	var initMaps = function ()
