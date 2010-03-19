@@ -1,16 +1,9 @@
 h1 | Details
 
-#flyingcloud
-	
-
 #ceremony
 	The ceremony will be hosted at 4:00PM at <a class="maplink" href="javascript:;" rel="#fcinfo">Flying Cloud Farm</a>.
-	
+	<br/><br/>
 	The ceremony will be outside, and a dinner reception will follow.
-
-<div id="mapsHolder"></div>
-
-$#parse(mapInfos)
 
 #accomodations
 	Rooms have been reserved at the <a class="maplink" rel="#sherinfo" href="javascript:;">Sheraton Sonoma County</a> which is located at 
@@ -20,3 +13,8 @@ $#parse(mapInfos)
 
 #shuttle
 	On the day of the wedding, a shuttle will be available to transport guests from the Sheraton to Flying Cloud.
+
+<div id="mapsHolder"></div>
+
+$#parse(mapInfos)
+
