@@ -154,7 +154,12 @@ a.directions
 	font-size: 16px;
 }
 
+#registries
+{
+	margin: 12px 0;
+}
+
 .regLocation
 {
-	margin-top: 20px;
+	margin-bottom: 20px;
 }
