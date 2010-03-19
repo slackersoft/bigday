@@ -1,12 +1,8 @@
 h1 | Welcome
-.fancy.justify
-	.index_name.justify | Jennifer Van Hove
-	.bridge.justify.big | +
-	.index_name.justify | Gregg Peschel
-	.justify | Would be honored to see you
-	.justify | at the Flying Cloud Farm
-	.justify | in Petaluma, California
-	.justify | at 4PM on May 23rd, 2010
-	.justify | to celebrate what they
-	.justify | will refer to from now on
-	div | as their <img src="/img$~_basePath~$/bigday-small.jpg"/>
+
+#welcome
+	Hi everyone!  This spring is coming fast, and with every day that passes we grow more and more excited to see you all in Petaluma.  We are extremely lucky to have family and friends coming from all over to be with us, so we wanted to make it as easy as we can to share information about travel and wedding plans.  We have lots of maps and location info, but if there’s anything you’d like to know more about, just let us know! For some, this will be a good chance to see more of Napa and the Bay Area, so we’ll be adding some information about local activities and points of interest soon.  If there’s anything you have questions about, please send us <a href="mailto:bothofus@greggandjen.com">a note</a>.  See you soon!	
+	
+
+#bigday
+	Come help us celebrate our <img src="/img$~_basePath~$/bigday-small.jpg"/>
