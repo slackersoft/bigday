@@ -9,7 +9,7 @@ class BaseHandler:
         return 'index'
     
     def title(self):
-        return "Jen and Gregg&apos;s Big Day!"
+        return "Jen and Gregg&#039;s Big Day!"
     
     def runMethod(self, match):
         m = match.group('var')
