@@ -11,7 +11,7 @@ a,a:visited{text-decoration:none;}
 @font-face /* everyone else */
 {
 	font-family: 'StrangeloveText';
-	src: url(//:) format("No-IE-404"), url('/static/css/strangelove-text.eot') format("opentype");
+	src: url(//:) format("No-IE-404"), url('/static/css/strangelove-text.otf') format("opentype");
 }
 
 body
