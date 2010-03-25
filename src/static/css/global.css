@@ -2,10 +2,16 @@ body,div,span,ul,ol,li,h1,h4 {margin:0;padding:0}
 li{list-style-type:none;}
 a,a:visited{text-decoration:none;}
 
-@font-face
+@font-face /* IE */
 {
 	font-family: 'StrangeloveText';
-	src: url('/static/css/strangelove-text.otf');
+	src: url('/static/css/strangelove-text.eot');
+}
+
+@font-face /* everyone else */
+{
+	font-family: 'StrangeloveText';
+	src: url(//:) format("No-IE-404"), url('/static/css/strangelove-text.eot') format('opentype');
 }
 
 body
