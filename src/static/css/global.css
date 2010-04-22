@@ -175,3 +175,18 @@ a.directions
 {
 	margin-bottom: 20px;
 }
+
+#updates
+{
+	margin-top: 15px;
+}
+
+#updates div
+{
+	margin-bottom: 5px;
+}
+
+#updates .up
+{
+	font-weight: bold;
+}

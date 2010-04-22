@@ -8,5 +8,12 @@ h1 | Welcome
 	activities and points of interest soon.  If there&#039;s anything you have questions about, please send us <a href="mailto:bothofus@greggandjen.com">a note</a>.  See you soon!	
 	
 #updates
-	Update! The invitations went out yesterday. Please feel free to RSVP with your guest's name if you would like to bring a date.
-
+	div
+		span.up | Update!
+		span | The invitations went out yesterday. Please feel free to RSVP with your guest's name if you would like to bring a date.
+	div
+		span.up | Update!
+		span
+			We&#039;ve heard of a few guests who haven&#039;t received their invitations, or have received incomplete invitations.
+			If you still haven&#039;t received your invitation, or received an invitation without an RSVP card, please send us
+			<a href="mailto:bothofus@greggandjen.com">an email</a>.
